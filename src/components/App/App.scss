@@ -1,5 +1,7 @@
 @import 'src/style/colors.scss';
 
 .app-container {
-  background: $commonBlack;
+  height: 100%;
+  width: 100%;
+  background-color: $commonBlack;
 }
