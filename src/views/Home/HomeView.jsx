@@ -73,17 +73,20 @@ class HomeView extends React.Component {
               {printAboutMe ? (
                 <>
                   <br />
-                  <span>Hello. Welcome to my personal website.</span>
+                  <span>
+                    Hello. Welcome to my personal website. This page will be for
+                    my contact information and anything I find cool enough to
+                    post.
+                  </span>
                   <br />
                   <div>
-                    I am a student at UCLA studying Computer Science. My
-                    interests lie in software development.
+                    A little bit about me. I’m a student at UCLA studying
+                    Computer Science. My interests are in software development.
                   </div>
                   <br />
                   <p>
-                    For more information about me or if you would like to
-                    contact me, feel free to reach out on any of the contacts I
-                    provide below.
+                    For more information about me or if you’d like to contact
+                    me, reach out to me on any of the contacts below.
                   </p>
                   <br />
                 </>
